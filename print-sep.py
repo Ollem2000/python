@@ -1,0 +1,1 @@
+print("Com o sep", "minhas palavras", "ficam separadas", "desse jeito", sep=" ESPAÇO ")
